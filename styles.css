@@ -1,0 +1,9 @@
+.languages { /* Select by element class */
+	font-family: 'Times New Roman';
+	color: green;
+}
+
+#name { /* Select by element id */
+	font-family: 'Times New Roman';
+	color: blue;
+}

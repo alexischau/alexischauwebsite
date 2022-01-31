@@ -5,5 +5,11 @@
 
 #name { /* Select by element id */
 	font-family: 'Times New Roman';
-	color: blue;
+	color:mistyrose;
+	font-size: 2em;
+}
+
+h1
+{
+color:burlywood;
 }
